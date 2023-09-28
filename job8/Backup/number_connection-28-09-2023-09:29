@@ -1,6 +1,0 @@
-alysonco tty2         tty2             Thu Sep 28 05:45    gone - no logout
-reboot   system boot  6.1.0-12-amd64   Thu Sep 28 05:44   still running
-alysonco tty2         tty2             Thu Sep 28 05:36 - down   (00:05)
-reboot   system boot  6.1.0-12-amd64   Thu Sep 28 05:35 - 05:42  (00:07)
-
-wtmp begins Thu Sep 28 05:35:02 2023
